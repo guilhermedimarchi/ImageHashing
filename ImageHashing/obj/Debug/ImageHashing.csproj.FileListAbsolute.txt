@@ -1,0 +1,41 @@
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada1.bmp
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada2.bmp
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada4.bmp
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada5.bmp
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\Imagens\Original.bmp
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\ImageHashing.exe
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\bin\Debug\ImageHashing.pdb
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Principal.resources
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Properties.Resources.resources
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csproj.GenerateResource.Cache
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.exe
+C:\Users\132173\Desktop\ImageHashing\ImageHashing\obj\Debug\ImageHashing.pdb
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.exe
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.pdb
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada1.bmp
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada2.bmp
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada4.bmp
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada5.bmp
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Original.bmp
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\ImageHashing.exe
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\ImageHashing.pdb
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csprojResolveAssemblyReference.cache
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Principal.resources
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Properties.Resources.resources
+C:\Users\Gui\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.exe
+C:\Users\Guilherme\Google Drive\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.pdb
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada1.bmp
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada2.bmp
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada4.bmp
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Falsificada5.bmp
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\Imagens\Original.bmp
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\ImageHashing.exe
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\bin\Debug\ImageHashing.pdb
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csprojResolveAssemblyReference.cache
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Principal.resources
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.Properties.Resources.resources
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.csproj.GenerateResource.Cache
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.exe
+D:\Faculdade\5Sem\EDA - LAB\Modulo 2\ImageHashing\ImageHashing\obj\Debug\ImageHashing.pdb
